@@ -1,0 +1,131 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap" rel="stylesheet">
+
+h1 {
+font-family: 'Montserrat-Bold', sans-serif;
+font-size: 3.5rem;
+line-height: 1.5;
+font-weight: 900;
+}
+
+h2 {
+font-family: 'Montserrat', sans-serif ,bold;
+font-size:3rem;
+}
+
+h3 {
+font-family: 'Montserrat', sans-serif ,bold;
+}
+
+p {
+color:grey;
+}
+
+body {
+font-family: 'Montserrat-Bold', sans-serif;
+}
+
+#title {
+background-color: #ff4c68;
+padding:3% 15%;
+color:#fff;
+}
+
+
+.navbar-brand {
+font-family:"Ubuntu";
+font-size:2.5rem;
+font-weight:bold;
+}
+
+.nav-item {
+padding : 0 18px;
+}
+
+.nav-link {
+font-size:1.2rem;
+}
+
+.download-button{
+margin:3% 3% 3% 0%;
+}
+
+
+.title-img {
+width : 50% ;
+transform : rotate(22deg);
+}
+
+#features {
+    padding:5% 20%;
+
+}
+
+.ftr-box {
+text-align:center;
+padding:5%;
+}
+
+.fa-solid{
+color:pink;
+padding:4%;
+}
+
+.fa-solid:hover {
+color:#ff4c68;
+}
+
+#testimonials {
+padding:5% 20%;
+text-align:center;
+background-color: #ff4c68;
+color:#fff;
+}
+
+.dog-test-img {
+width:15%;
+border-radius:100%;
+padding:3%;
+}
+
+.testimonial-image {
+width:15%;
+border-radius:100%;
+padding:3%;
+}
+
+.carousel-item {
+padding:7% 15%;
+}
+
+
+#press {
+background-color: #ff4c68;
+text-align:center;
+padding-bottom:3%;
+}
+
+.press-img {
+width:20%;
+padding:3%;
+}
+
+#pricing {
+font-family: 'Montserrat', sans-serif ,bold;
+padding:5% 20%;
+text-align:center;
+}
+
+#cta {
+padding:5% 20%;
+text-align:center;
+background-color: #ff4c68;
+color:#fff;
+}
+#footer {
+padding:2%;
+font-family: 'Montserrat', sans-serif ,bold;
+background-color: white;
+color:white;
+}
